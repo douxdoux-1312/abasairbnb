@@ -18,4 +18,4 @@ Cet outil permet:
 - Regroupement des comités logement et associations de locataires du Québec ([RCLALQ](https://rclalq.qc.ca/))
 - Collectif de Recherche et d'ACtion sur l'Habitat ([CRACH](http://crach.ca/))
 
-** Les scripts python pour le web-scraping sont dans un repo privé **
+**Les scripts python pour le web-scraping sont dans un repo privé**
